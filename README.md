@@ -7,8 +7,7 @@ This project implements a simple Django API using Django Rest Framework to manag
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/django-invoice-api.git
-   cd django-invoice-api
+   git clone https://github.com/kamtendra/Django-Invoice-API.git
    ```
 
 2. Install the dependencies 
